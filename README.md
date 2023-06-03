@@ -134,7 +134,7 @@ Run the server.
 ```
 ## Output:
 ### Client output:
-![output](https://github.com/ShanmathiShanmugam/cover-page-design/assets/121243595/f99c5f54-bdec-4924-bdc1-4299751ec787)
+![output](https://github.com/ShanmathiShanmugam/cover-page-design/assets/121243595/8c0ca700-90f4-47cf-b7d2-599415b5af27)
 
 ### Server out:
 ![serverout](https://github.com/ShanmathiShanmugam/cover-page-design/assets/121243595/0fc0c13f-c39f-4f63-831b-f5356812d9fa)
