@@ -40,14 +40,10 @@ Run the server.
             background-image: url(/static/images/bg.jpg);
             background-size: cover;
         }
-            
-
+         
         .toptext{
             color:white;
-
         }
-
-        
         .tophr{
             width:140px;
         }
@@ -70,8 +66,7 @@ Run the server.
         .id {
             width:400px;
             position: relative;
-            top:220px;
-            
+            top:220px;       
         }
         .publisher{
             font-size: small;
@@ -85,7 +80,6 @@ Run the server.
             font-family: Verdana;
             position:relative;
             top:90px;
-
         }
         .subtitle{
             font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -138,9 +132,12 @@ Run the server.
     </body>
 </html>
 ```
-
 ## Output:
-Include your output screenshot here
+### Client output:
+![output](https://github.com/ShanmathiShanmugam/cover-page-design/assets/121243595/f99c5f54-bdec-4924-bdc1-4299751ec787)
+
+### Server out:
+![serverout](https://github.com/ShanmathiShanmugam/cover-page-design/assets/121243595/0fc0c13f-c39f-4f63-831b-f5356812d9fa)
 
 ## Result:
 A website to display the cover page design of a book was developed and displayed successfully.
